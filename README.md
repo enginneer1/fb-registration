@@ -6,4 +6,5 @@
 - fake random data 
 - show cookies 
 - mobile api 
-- contact : https://t.me/engiinner
+- contact : https://t.me/enginneer1
+- price :75$
