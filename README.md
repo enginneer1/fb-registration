@@ -7,4 +7,4 @@
 - show cookies 
 - mobile api 
 - contact : https://t.me/enginneer1
-- price :75$
+- price :59$
